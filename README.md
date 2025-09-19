@@ -1,7 +1,7 @@
 # 👋 About Me  
 Hi, I'm Mohsin Ali (aka **mmohsinali**)  
-- 💻 Backend Developer | Learning Python & Blockchain  
-- 🌱 Currently exploring **Vue.js**, **Laravel**, and **AI Agents**  
+- 💻 Full Stack Developer | Learning Python & Blockchain  
+- 🌱 Expert **Laravel**, **Vue.js**, **Javascript**, **MYAQL**,   
 - 🎯 Goal: Build impactful applications & grow as a full-stack developer  
 
 ---
